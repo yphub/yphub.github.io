@@ -6,7 +6,7 @@
 > 2. ["北冥有鱼"水下机器人Web端网页](#second)
 > 3. ["帮你决策"微信小程序设计](#third)
 > 4. ["基于PIC的智能滑板车设计"中的移动端软件](#fourth)
-> &nbsp;
+> &nbsp;<br>
 
 <div style="display:none">
     <style>
@@ -31,12 +31,18 @@
         display: table;
         max-width: 650px;
         margin: auto;
+        text-align: center;
     }
     p.pngd{
         text-align: center;
         margin: 10px;
         font-weight: bold;
         margin-bottom: 20px;
+    }
+    img{
+        margin: auto;
+        width: 100%;
+        height: auto;
     }
     </style>
 </div>
