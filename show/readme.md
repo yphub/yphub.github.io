@@ -1,43 +1,45 @@
 # 陈淯培的作品展示
 
 ## 目录
-> <br></br>
+> &nbsp;
 > 1. [O-Lab创享会社团网站](#first)
 > 2. ["北冥有鱼"水下机器人Web端网页](#second)
 > 3. ["帮你决策"微信小程序设计](#third)
 > 4. ["基于PIC的智能滑板车设计"中的移动端软件](#fourth)
-> <br/></br>
+> &nbsp;
 
-<style>
-.cp{
-    float: left;
-    width: 100%;
-    height: auto;
-}
-.cp-m{
-    width: 45%;
-    padding: 2.5%;
-}
-.mb{
-    float: right;
-    box-shadow: 0 0 30px rgba(0,0,0,.3);
-    margin-top: -50%;
-    width: 35%;
-    margin-right: 5%;
-}
-.table{
-    width: 100%;
-    display: table;
-    max-width: 650px;
-    margin: auto;
-}
-p.pngd{
-    text-align: center;
-    margin: 10px;
-    font-weight: bold;
-    margin-bottom: 20px;
-}
-</style>
+<div style="display:none">
+    <style>
+    .cp{
+        float: left;
+        width: 100%;
+        height: auto;
+    }
+    .cp-m{
+        width: 45%;
+        padding: 2.5%;
+    }
+    .mb{
+        float: right;
+        box-shadow: 0 0 30px rgba(0,0,0,.3);
+        margin-top: -50%;
+        width: 35%;
+        margin-right: 5%;
+    }
+    .table{
+        width: 100%;
+        display: table;
+        max-width: 650px;
+        margin: auto;
+    }
+    p.pngd{
+        text-align: center;
+        margin: 10px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    </style>
+</div>
 
 <span id="first"></span>
 ### 1. O-Lab创享会社团网站[https://oucolab.cn](https://oucolab.cn)
