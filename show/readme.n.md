@@ -44,50 +44,50 @@ p.pngd{
 1. **截图**
     <div class="table">
         <div class="cp">
-            <img src="./oucolab.cn/主页-B.sm.jpg">
+            <img src="./oucolab.cn/主页-B.png">
         </div>
         <div class="mb">        
-            <img src="./oucolab.cn/主页-M.sm.jpg">
+            <img src="./oucolab.cn/主页-M.png">
         </div>        
     </div>    
     <p class="pngd">主页</p>
     
     <div class="table">
         <div class="cp">
-            <img src="./oucolab.cn/时刻表-B.sm.jpg">
+            <img src="./oucolab.cn/时刻表-B.png">
         </div>
         <div class="mb">        
-            <img src="./oucolab.cn/时刻表-M.sm.jpg">
+            <img src="./oucolab.cn/时刻表-M.png">
         </div>
     </div>
     <p class="pngd">时刻表</p>
 
     <div class="table">
         <div class="cp">
-            <img src="./oucolab.cn/课表-B.sm.jpg">
+            <img src="./oucolab.cn/课表-B.png">
         </div>
         <div class="mb">        
-            <img src="./oucolab.cn/课表-M.sm.jpg">
+            <img src="./oucolab.cn/课表-M.png">
         </div>
     </div>
     <p class="pngd">课表查询</p>
 
     <div class="table">
         <div class="cp">
-            <img src="./oucolab.cn/菜单设置-B.sm.jpg">
+            <img src="./oucolab.cn/菜单设置-B.png">
         </div>
         <div class="mb">        
-            <img src="./oucolab.cn/菜单设置-M.sm.jpg">
+            <img src="./oucolab.cn/菜单设置-M.png">
         </div>
     </div>
     <p class="pngd">菜单设置</p>
 
     <div class="table">
         <div class="cp">
-            <img src="./oucolab.cn/编辑-B.sm.jpg">
+            <img src="./oucolab.cn/编辑-B.png">
         </div>
         <div class="mb">        
-            <img src="./oucolab.cn/编辑-M.sm.jpg">
+            <img src="./oucolab.cn/编辑-M.png">
         </div>
     </div>
     <p class="pngd">页面编辑</p>    
@@ -107,15 +107,15 @@ p.pngd{
 1. **截图**
     <div class="table">
         <div class="cp">    
-            <img src="./北冥有鱼/主页.sm.jpg">            
+            <img src="./北冥有鱼/主页.png">            
             <p class="pngd">主页</p>
         </div>
         <div class="cp">    
-            <img src="./北冥有鱼/设置.sm.jpg">            
+            <img src="./北冥有鱼/设置.png">            
             <p class="pngd">设置</p>
         </div>
         <div class="cp">    
-            <img src="./北冥有鱼/移动.sm.jpg">            
+            <img src="./北冥有鱼/移动.png">            
             <p class="pngd">移动端</p>
         </div>
     </div>
@@ -136,23 +136,23 @@ p.pngd{
 1. **截图**
     <div class="table">
         <div class="cp cp-m">
-            <img src="./帮你决策/主页.sm.jpg">
+            <img src="./帮你决策/主页.jpg">
             <p class="pngd">主页</p>
         </div>
         <div class="cp cp-m">
-            <img src="./帮你决策/向导.sm.jpg">
+            <img src="./帮你决策/向导.jpg">
             <p class="pngd">向导</p>
         </div>
         <div class="cp cp-m">
-            <img src="./帮你决策/选择.sm.jpg">
+            <img src="./帮你决策/选择.jpg">
             <p class="pngd">选择</p>
         </div>
         <div class="cp cp-m">
-            <img src="./帮你决策/结果.sm.jpg">
+            <img src="./帮你决策/结果.jpg">
             <p class="pngd">结果</p>
         </div>
         <div class="cp cp-m">
-            <img src="./帮你决策/我的.sm.jpg">
+            <img src="./帮你决策/我的.jpg">
             <p class="pngd">我的</p>
         </div>
     </div>
@@ -173,11 +173,11 @@ p.pngd{
 1. **截图**
     <div class="table">
         <div class="cp cp-m">
-            <img src="./滑板车/控制台.sm.jpg">
+            <img src="./滑板车/控制台.jpg">
             <p class="pngd">控制台</p>
         </div>
         <div class="cp cp-m">
-            <img src="./滑板车/菜单.sm.jpg">
+            <img src="./滑板车/菜单.jpg">
             <p class="pngd">菜单</p>
         </div>
     </div>
