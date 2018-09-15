@@ -73,7 +73,7 @@
 
 
 <span id="second"></span>
-### 2. "北冥有鱼"水下机器人Web端网页
+### 2. "北冥有鱼"水下机器人Web端网页（Demo:[https://yphub.github.io/BMGC](https://yphub.github.io/BMGC)）
 1. **截图**
     <div class="table">
         <div class="cp">    
@@ -102,7 +102,7 @@
 
 
 <span id="third"></span>
-### 3. "帮你决策"微信小程序设计
+### 3. "帮你决策"微信小程序设计 `（微信小程序搜索"帮你决策"）`
 1. **截图**
     <div class="table">
         <div class="cp cp-m">
